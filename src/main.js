@@ -1,2 +1,2 @@
-import './css/app.css'
-import './js/app'
+import './assets/css/app.css'
+import './assets/js/app'
